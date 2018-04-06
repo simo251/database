@@ -1,6 +1,6 @@
 title: RBE Solutions database
 short_title: RBE Solutions database
-description: RBE Solutions database
+description: Designs, technologies and other solutions to be used in projects trying to transition to RBE
 baseurl: /
 permalink: "/:path/"
 defaults:
@@ -32,4 +32,4 @@ gems:
   - jekyll-feed
   - jekyll-archives
 
-theme: jekyll-theme-tactile
+theme: jekyll-theme-so-simple
