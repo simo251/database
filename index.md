@@ -19,4 +19,5 @@ menu:
 # RBE solutions database
 
 ## Projects
-Koto
+
+[Koto](/projects/koto "Koto coop")
