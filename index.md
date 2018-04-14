@@ -1,13 +1,13 @@
 ---
 title: RBE solutions database
-layout: default
+layout: home
 heading: RBE solutions database
 partners: []
 services: []
 sub_heading: ''
 textline: ''
 hero_button:
-  text: Learn more
+  text:   more
   href: "/description"
 show_news: true
 menu:

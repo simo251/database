@@ -27,9 +27,11 @@ collections:
 jekyll-archives:
   enabled: all
   layout: "archive"
-gems:
+plugins:
   - jekyll-menus
   - jekyll-feed
   - jekyll-archives
-
+  - jekyll-toc
+  - jekyll-sitemap
+ 
 theme: jekyll-theme-so-simple
