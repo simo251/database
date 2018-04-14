@@ -7,7 +7,7 @@ services: []
 sub_heading: ''
 textline: ''
 hero_button:
-  text:   more
+  text: more
   href: "/description"
 show_news: true
 menu:
@@ -16,8 +16,22 @@ menu:
     url: "/"
     weight: 1
 ---
-# RBE solutions database
+# How to edit
 
-## Projects
+Send message to jeukku ([https://github.com/jeukku](https://github.com/jeukku "https://github.com/jeukku")) and ask to join Github organization [https://github.com/RBE-Solutions](https://github.com/RBE-Solutions/database "https://github.com/RBE-Solutions/database").
+
+The project where sources for this site is, is here [https://github.com/RBE-Solutions/database](https://github.com/RBE-Solutions/database "https://github.com/RBE-Solutions/database").
+
+You can use the github editor to edit and add md files or a tool like [https://app.forestry.io/](https://app.forestry.io/ "https://app.forestry.io/") if you like.
+
+# Technologies
+
+[Energy](energy)
+
+[Construction](contrruction)
+
+[Food production](foodproduction)
+
+# Projects using this platform
 
 [Koto](/projects/koto "Koto coop")
