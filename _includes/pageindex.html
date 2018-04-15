@@ -1,13 +1,16 @@
 <div>
 
+{% include base.html %}
+
 {% assign sorted = (site.pages | sort: 'url') %}
 
 <ul>
+
 {%- for spage in sorted | sort: url -%}
 	{% if spage.url contains page.url and spage.url != page.url %}
 	{% if spage.title %}
 		<li>
-		<a href="{{ spage.url }}">{{ spage.url | remove_first: page.url }}</a>
+		<a href="{{ base }}{{ spage.url }}">{{ spage.url | remove_first: page.url }}</a>
 		</li>
     {% endif %}
     {% endif %}
