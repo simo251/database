@@ -24,14 +24,7 @@ The project where sources for this site is, is here [https://github.com/RBE-Solu
 
 You can use the github editor to edit and add md files or a tool like [https://app.forestry.io/](https://app.forestry.io/ "https://app.forestry.io/") if you like.
 
-# Technologies
+# Pages
 
-[Energy](energy)
+{% include pageindex.html %}
 
-[Construction](construction)
-
-[Food production](foodproduction)
-
-# Projects using this platform
-
-[Koto](/projects/koto "Koto coop")

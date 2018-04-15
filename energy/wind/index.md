@@ -1,11 +1,9 @@
 ---
-title: Construction
+title: Energy/Wind
 layout: post
-heading: Construction
+heading: Wind
 partners: []
 services: []
 sub_heading: ''
 textline: ''
 ---
-
-{% include pageindex.html %}
