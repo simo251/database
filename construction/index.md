@@ -1,6 +1,6 @@
 ---
 title: Construction
-layout: post
+layout: part
 heading: Construction
 ---
 

@@ -1,5 +1,5 @@
 ---
 title: Wind-energy
-layout: post
+layout: part
 heading: Wind
 ---

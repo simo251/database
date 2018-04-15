@@ -1,6 +1,6 @@
 ---
 title: Food production - Automation
-layout: post
+layout: part
 ---
 
 

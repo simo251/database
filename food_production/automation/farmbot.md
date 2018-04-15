@@ -1,6 +1,6 @@
 ---
 title: FarmBot
-layout: post
+layout: part
 ---
 [https://www.youtube.com/watch?v=60htrqei_U0](https://www.youtube.com/watch?v=60htrqei_U0)
 

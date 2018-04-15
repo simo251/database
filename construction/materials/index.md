@@ -1,5 +1,5 @@
 ---
 title: Materials
-layout: post
+layout: part
 ---
 

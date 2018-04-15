@@ -16,4 +16,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 #gem "minima"
 gem "jekyll-theme-tactile"
-gem "jekyll-theme-so-simple", :git => "https://github.com/RBE-Solutions/so-simple-theme"
+gem "jekyll-theme-so-simple"
+gem "jekyll-theme-architect"
+
+

@@ -1,4 +1,4 @@
 ---
 title: Solar-energy
-layout: post
+layout: part
 ---

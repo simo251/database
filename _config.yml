@@ -12,7 +12,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: post
+      layout: part
 collections:
   people:
     output: true
@@ -35,3 +35,4 @@ plugins:
   - jekyll-sitemap
  
 theme: jekyll-theme-so-simple
+#theme: jekyll-theme-architect

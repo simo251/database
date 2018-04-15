@@ -1,4 +1,4 @@
 ---
 title: Biogas
-layout: post
+layout: part
 ---

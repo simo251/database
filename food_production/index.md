@@ -1,6 +1,6 @@
 ---
 title: Food production
-layout: post
+layout: part
 heading: Food production
 ---
 

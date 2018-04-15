@@ -1,5 +1,5 @@
 ---
 title: Designs
-layout: post
+layout: part
 ---
 

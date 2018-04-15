@@ -1,5 +1,5 @@
 ---
 title: Energy
-layout: post
+layout: part
 heading: Energy
 ---
