@@ -2,8 +2,8 @@
 
 {% assign sorted = (site.pages | sort: 'url') %}
 
+<ul>
 {%- for spage in sorted | sort: url -%}
-	<ul>
 	{% if spage.url contains page.url and spage.url != page.url %}
 	{% if spage.title %}
 		<li>
@@ -11,6 +11,7 @@
 		</li>
     {% endif %}
     {% endif %}
-    </ul>
 {% endfor %}
+</ul>
+
 </div>
