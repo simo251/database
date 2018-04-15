@@ -1,5 +1,5 @@
 ---
-title: Energy/Wind
+title: Wind-energy
 layout: post
 heading: Wind
 ---
