@@ -4,4 +4,3 @@ layout: post
 heading: Construction
 ---
 
-{% include pageindex.html %}
