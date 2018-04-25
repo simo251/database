@@ -16,6 +16,9 @@ layout: part
 
 Calculations and other information
 
+### Prices of Dual Fuel Generators
+[https://www.justgenerators.co.uk/lpg-dual-fuel-generators.html](https://www.justgenerators.co.uk/lpg-dual-fuel-generators.html "https://www.justgenerators.co.uk/lpg-dual-fuel-generators.html")
+
 # Waste
 
 Waste can be used as a fertilizer if material used is food or other plants.
