@@ -2,12 +2,9 @@
 title: 3D printed houses
 layout: part
 ---
+## Icon
 
-## Icon 
-
-	We are a construction technologies company leading the way into the future of 
-	homebuilding by using 3D printing to make major advancements in affordability, 
-	building performance, sustainability and customizability.
+> We are a construction technologies company leading the way into the future of homebuilding by using 3D printing to make major advancements in affordability, building performance, sustainability and customizability.
 
 [https://www.iconbuild.com/](https://www.iconbuild.com/ "https://www.iconbuild.com/")
 
