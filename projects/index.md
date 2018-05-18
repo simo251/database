@@ -4,19 +4,19 @@ layout: part
 ---
 ## ASIMPAC
 
-[https://www.facebook.com/ASIMPAC/]()
+[https://www.facebook.com/ASIMPAC/](https://www.facebook.com/ASIMPAC/)
 
 > ASIMPAC is a society transition proposal stemming from a corporative community to tackle the global challenges that the present system is unfit to address
 
 ## Kadagaya
 
-[http://www.kadagaya.org/index.php/en/]()
+[http://www.kadagaya.org/index.php/en/](http://www.kadagaya.org/index.php/en/)
 
 > Kadagaya is a community focusing on the implementation of a resource-based economy (RBE). Our first pilot project is based in Junin, Peru, where we are constructing an experimental village to evaluate the concepts of RBE. We are aiming to achieve self-sufficiency, reduce human labour and increase quality of life through the development of advanced (mostly open-source) technologies and increasing the consciousness of the community. The supporting systems (e.g. energy, water, agriculture, health, and education) are being holistically designed to increase efficiency and reliability while promoting the consciousness of the interdependency of all systems. Accessibility of knowledge is fundamental to the development of an RBE society and hence all developments from Kadagaya will be freely available to anyone who is interested.
 
 ## Freelife project
 
-[https://github.com/Darnok11/Freelife]()
+[https://github.com/Darnok11/Freelife](https://github.com/Darnok11/Freelife)
 
 > Architectural open-source project of modular, autonomous (passive) houses based on rapid prototyping with aeroponic system called Freelife.
 
@@ -42,6 +42,6 @@ layout: part
 
 ## RBE 10k project
 
-[http://en.rbem.org/wiki/RBE10K]()
+[http://en.rbem.org/wiki/RBE10K](http://en.rbem.org/wiki/RBE10K)
 
 > RBE10K is a minimalist (simple living) or eco-communalist experiment project seeking to implement the a basic Resource-Based Economic Model (RBEM) system. The experiment is being planned and prepared through this Wiki, and will involve 10,000 volunteers in a yet to-be-determined location, with a main objective of trialling a real world RBEM, i.e. a social arrangement engineered to satisfy premises of sustainability, equality, liberty, health, and access to the necessities of life without using money, trade, or authority or privilege systems.
