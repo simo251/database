@@ -45,3 +45,11 @@ layout: part
 [http://en.rbem.org/wiki/RBE10K](http://en.rbem.org/wiki/RBE10K)
 
 > RBE10K is a minimalist (simple living) or eco-communalist experiment project seeking to implement the a basic Resource-Based Economic Model (RBEM) system. The experiment is being planned and prepared through this Wiki, and will involve 10,000 volunteers in a yet to-be-determined location, with a main objective of trialling a real world RBEM, i.e. a social arrangement engineered to satisfy premises of sustainability, equality, liberty, health, and access to the necessities of life without using money, trade, or authority or privilege systems.
+
+## Envienta - Open source everything
+[https://envienta.com/](https://envienta.com/)
+
+> ENVIENTA is an open source hardware-developing platform helping innovators, creators and 
+makerspaces to connect with supporters and consumers in a decentralized cloud-manufacturing 
+framework. At early stage the project mainly focuses on solutions for sustainable living, home 
+automation, green-energy and food production.
