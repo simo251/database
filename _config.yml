@@ -34,5 +34,6 @@ plugins:
   - jekyll-toc
   - jekyll-sitemap
  
-theme: jekyll-theme-so-simple
+#theme: jekyll-theme-so-simple
 #theme: jekyll-theme-architect
+theme: jekyll-theme-rbesolutions

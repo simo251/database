@@ -15,8 +15,9 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 #gem "minima"
-gem "jekyll-theme-tactile"
-gem "jekyll-theme-so-simple"
-gem "jekyll-theme-architect"
+#gem "jekyll-theme-tactile"
+#gem "jekyll-theme-so-simple"
+#gem "jekyll-theme-architect"
 
+gem "jekyll-theme-rbesolutions", :path => "../jekyll-theme-rbesolutions/"
 
