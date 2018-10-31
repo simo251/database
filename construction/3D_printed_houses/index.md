@@ -1,6 +1,7 @@
 ---
 title: 3D printed houses
 layout: part
+
 ---
 ## Icon
 
@@ -9,3 +10,9 @@ layout: part
 [https://www.iconbuild.com/](https://www.iconbuild.com/ "https://www.iconbuild.com/")
 
 ![](https://static1.squarespace.com/static/5aa5807ab27e397a4cef6c2b/5aa6adef0d9297ee20806e15/5aa6adf5c8302517fb401258/1520882136539/First_Permitted_3DPrintedHome_US.JPG?format=750w)
+
+## WASP
+
+[https://www.3dwasp.com/en/3d-printed-house-gaia/](https://www.3dwasp.com/en/3d-printed-house-gaia/ "https://www.3dwasp.com/en/3d-printed-house-gaia/")
+
+![](https://www.3dwasp.com/wp-content/uploads/2018/09/3D-printed-house-Gaia-WASP-Italy-photo3_WEB.jpg)
