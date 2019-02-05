@@ -14,6 +14,14 @@ layout: part
 
 > Kadagaya is a community focusing on the implementation of a resource-based economy (RBE). Our first pilot project is based in Junin, Peru, where we are constructing an experimental village to evaluate the concepts of RBE. We are aiming to achieve self-sufficiency, reduce human labour and increase quality of life through the development of advanced (mostly open-source) technologies and increasing the consciousness of the community. The supporting systems (e.g. energy, water, agriculture, health, and education) are being holistically designed to increase efficiency and reliability while promoting the consciousness of the interdependency of all systems. Accessibility of knowledge is fundamental to the development of an RBE society and hence all developments from Kadagaya will be freely available to anyone who is interested.
 
+## Decentralized Society Research Project
+
+[https://dsrp.eu/post/146300647328/dsrp-intro](https://dsrp.eu/post/146300647328/dsrp-intro)
+
+> I am Mathijs de Bruin from The Netherlands. Having been frustrated for a long time about living as part of ‘the system’ (the economic and social structures that dominate our lives) I decided to exchange my house in Amsterdam for a more sustainable and humane form of life. 
+>
+> Within several (3-4) years my plan is to either join or found a sustainable community, being largely independent of dominating power structures forcing the exploitation of our planet and one another. 
+
 ## Freelife project
 
 [https://github.com/Darnok11/Freelife](https://github.com/Darnok11/Freelife)
