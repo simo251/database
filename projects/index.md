@@ -54,7 +54,20 @@ layout: part
 
 > RBE10K is a minimalist (simple living) or eco-communalist experiment project seeking to implement the a basic Resource-Based Economic Model (RBEM) system. The experiment is being planned and prepared through this Wiki, and will involve 10,000 volunteers in a yet to-be-determined location, with a main objective of trialling a real world RBEM, i.e. a social arrangement engineered to satisfy premises of sustainability, equality, liberty, health, and access to the necessities of life without using money, trade, or authority or privilege systems.
 
+## Open Source Ecology (OSE)
+
+[https://www.opensourceecology.org/](https://www.opensourceecology.org/)
+
+> An open source, libre economy is an efficient economy which increases innovation by open collaboration. To get there, OSE is currently developing a set of open source blueprints for the Global Village Construction Set (GVCS) – a set of the 50 most important machines that it takes for modern life to exist – everything from a tractor, to an oven, to a circuit maker. In the process of creating the GVCS, OSE intends to develop a modular, scalable platform for documenting and developing open source, libre hardware – including blueprints for both physical artifacts and for related open enterprises.
+
+## One Community
+
+[https://www.onecommunityglobal.org/overview/](https://www.onecommunityglobal.org/overview/)
+
+> One Community is a 100% volunteer-operated non-profit and non-governmental organization creating open source resources and solutions for all aspects of sustainable and globally-regenerative living.
+
 ## Envienta - Open source everything
+
 [https://envienta.com/](https://envienta.com/)
 
 > ENVIENTA is an open source hardware-developing platform helping innovators, creators and 
