@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: part
 published: false
 
 ---
