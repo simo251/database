@@ -1,10 +1,11 @@
 ---
+title: Resources
 layout: part
 
 ---
-\## Vention
+## Vention
 
-\[[https://www.vention.io/](https://www.vention.io/ "https://www.vention.io/")\]([https://www.vention.io/](https://www.vention.io/ "https://www.vention.io/"))
+[[https://www.vention.io/](https://www.vention.io/ "https://www.vention.io/")\]([https://www.vention.io/](https://www.vention.io/ "https://www.vention.io/"))
 
 > Build your machine online.  
 > Receive your parts next day.  
