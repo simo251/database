@@ -8,4 +8,5 @@ fields:
   hidden: false
   default: page
 pages:
+- machines/resources.md
 - energy/wind/small-wind-turbines.md
