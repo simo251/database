@@ -48,12 +48,6 @@ layout: part
 >
 > A place of abundance and prosperity– where anything we imagine is possible.
 
-## RBE 10k project
-
-[http://en.rbem.org/wiki/RBE10K](http://en.rbem.org/wiki/RBE10K)
-
-> RBE10K is a minimalist (simple living) or eco-communalist experiment project seeking to implement the a basic Resource-Based Economic Model (RBEM) system. The experiment is being planned and prepared through this Wiki, and will involve 10,000 volunteers in a yet to-be-determined location, with a main objective of trialling a real world RBEM, i.e. a social arrangement engineered to satisfy premises of sustainability, equality, liberty, health, and access to the necessities of life without using money, trade, or authority or privilege systems.
-
 ## Open Source Ecology (OSE)
 
 [https://www.opensourceecology.org/](https://www.opensourceecology.org/)
