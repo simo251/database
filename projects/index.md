@@ -68,3 +68,9 @@ layout: part
 makerspaces to connect with supporters and consumers in a decentralized cloud-manufacturing 
 framework. At early stage the project mainly focuses on solutions for sustainable living, home 
 automation, green-energy and food production.
+
+## Transition network
+
+[https://transitionnetwork.org/](https://transitionnetwork.org/)
+
+> Transition is a movement of communities coming together to reimagine and rebuild our world. Here we explain what it is, why people do it, how the movement started and give you a sense of our underpinning principles and approach.
